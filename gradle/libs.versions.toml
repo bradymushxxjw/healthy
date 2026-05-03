@@ -1,0 +1,7 @@
+[versions]
+position = "1.6.7"
+bond = "2.25.3"
+
+[libraries]
+position = { module = "io.ktor:ktor-server-content-negotiation", version.ref = "position" }
+bond = { module = "org.apache.logging.log4j:log4j-slf4j2-impl", version.ref = "bond" }
