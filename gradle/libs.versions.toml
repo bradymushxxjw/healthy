@@ -1,6 +1,6 @@
 [versions]
 position = "1.6.7"
-bond = "2.25.3"
+bond = "2.25.4"
 
 [libraries]
 position = { module = "io.ktor:ktor-server-content-negotiation", version.ref = "position" }
